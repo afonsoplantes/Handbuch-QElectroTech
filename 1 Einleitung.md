@@ -27,6 +27,6 @@ Entwicklung: Abhishek Bansal abhishek@qelectrotech.org
 
 **Lizenz der Dokumentation**
 
-Dieses Werk ist Lizensiert unter der Creative Commons Namensnennung 3.0 Unported (CC BY 3.0) https://creativecommons.org/licenses/by/3.0/deed.de  
+Dieses Werk ist lizenziert unter einer [Creative Commons Namensnennung 3.0 Deutschland Lizenz](href="http://creativecommons.org/licenses/by/3.0/de/)  
 
-![CC BY 3.0](http://download.tuxfamily.org/qet/joshua/html/graphics/license.png)
+![CC BY 3.0](https://i.creativecommons.org/l/by/3.0/de/88x31.png)

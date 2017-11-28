@@ -1,6 +1,7 @@
 QElectroTech: | Home Project: http://www.qelectrotech.org
 
-Authors:
+Authors | 
+--------|--------
 Management and Development: | Laurent Trinques scorpio@qelectrotech.org
 Logo: | Nuno Pinheiro nuno@nuno-icons.com
 Original idea: | Benoit Ansieau benoit@qelectrotech.org

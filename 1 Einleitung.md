@@ -1,6 +1,6 @@
 Projektseite:  http://www.qelectrotech.org
 
-** Autoren
+**Autoren**
 
 Management und Entwicklung: Laurent Trinques scorpio@qelectrotech.org
 Logo: Nuno Pinheiro nuno@nuno-icons.com
@@ -10,7 +10,7 @@ DXF Import Entwicklung: Ronny Desmedt r.desmedt@live.be
 
 Dokumentation: Arun Kishore Eswara eswara.arun@gmail.com
 
-** Pakete
+**Pakete**
 
 Fedora / Redhat: Remi Collet remi@fedoraproject.org
 Mageia: Trem trem@mageia.org
@@ -18,12 +18,12 @@ Debian: Laurent Trinques scorpio@qelectrotech.org
 Gentoo: Markos Chandras hwoarang@gentoo.org
 Mac OSX: Yoann Varenne yoann@tuxfamily.org
 
-** Mitwirkende	
+**Mitwirkende**	
 
 Entwicklung: Cyril Frausty cyril@qelectrotech.org
 Entwicklung: Abhishek Bansal abhishek@qelectrotech.org
 
-** Lizenz der Dokumentation
+**Lizenz der Dokumentation**
 
 Dieses Werk ist Lizensiert unter der Creative Commons Namensnennung 3.0 Unported (CC BY 3.0) https://creativecommons.org/licenses/by/3.0/deed.de
 
